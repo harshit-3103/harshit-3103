@@ -43,9 +43,5 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/harshit90660891" target="_blank"> <img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-twitter-1.png" alt="harshit90660891" height="30" width="40" /> </a>
-  
-  <a href="https://linkedin.com/in/harshit-sharma-460632191" target="_blank"> <img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png" alt="harshit-sharma-460632191" height="30" width="40" /></a>
-  
-  <a href="https://instagram.com/harshitsharma3200" target="_blank"> <img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Glyph-Black-Logo.wine.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/harshit90660891" target="_blank"> <img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-twitter-1.png" alt="harshit90660891" height="30" width="40" /> </a> <a href="https://linkedin.com/in/harshit-sharma-460632191" target="_blank"> <img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png" alt="harshit-sharma-460632191" height="30" width="40" /></a> <a href="https://instagram.com/harshitsharma3200" target="_blank"> <img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Glyph-Black-Logo.wine.svg" height="30" width="40" /></a>
 </p>
