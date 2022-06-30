@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-3103" alt="harshit-3103" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working with **ReactJS and NodeJS**
 
 - 📫 How to reach me **harshitsharma3200@gmail.com**
 
@@ -13,12 +13,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/harshit90660891" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="harshit90660891" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshit-sharma-460632191" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="harshit-sharma-460632191" height="30" width="40" /></a>
-<a href="https://instagram.com/harshitsharma3200" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="harshitsharma3200" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harshit_3103" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshit_3103" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harshitsharma321" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="harshitsharma321" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/harshitsharma321" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="harshit_3103" height="30" width="40" /></a>
+  <a href="https://twitter.com/harshit90660891" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="harshit90660891" height="30" width="40" /> </a>
+  
+  <a href="https://linkedin.com/in/harshit-sharma-460632191" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="harshit-sharma-460632191" height="30" width="40" /></a>
+  
+  <a href="https://instagram.com/harshitsharma3200" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="harshitsharma3200" height="30" width="40" /></a>
+  
+  <a href="https://www.codechef.com/users/harshit_3103" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshit_3103" height="30" width="40" /></a>
+
+  <a href="https://www.hackerrank.com/harshitsharma321" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="harshitsharma321" height="30" width="40" /></a>
+  
+  <a href="https://codeforces.com/profile/harshitsharma321" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="harshit_3103" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
